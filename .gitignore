@@ -1,0 +1,82 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.buildlog/
+.history
+.svn/
+migrate_working_dir/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# The .vscode folder contains launch configuration and tasks you actually want to keep.
+# But you may want to ignore the settings.json file.
+.vscode/settings.json
+
+# Flutter/Dart/Pub related
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+/build/
+
+# Symbolication logging
+/processed_indices.json
+
+# Android related
+**/android/**/generated/
+**/android/captures/
+**/android/gradle/
+**/android/local.properties
+**/android/key.properties
+**/android/Bundle/
+**/android/apk/
+**/android/project.properties
+*.jks
+*.keystore
+*.pk8
+*.pem
+/android/key.properties
+
+# iOS related
+**/ios/Flutter/Generated.xcconfig
+**/ios/Flutter/flutter_export_environment.sh
+**/ios/Flutter/App.framework
+**/ios/Flutter/App.podspec
+**/ios/Flutter/App.structurereport.json
+**/ios/Runner/GeneratedPluginRegistrant.h
+**/ios/Runner/GeneratedPluginRegistrant.m
+**/ios/Pods/
+**/ios/.generated/
+*.merged.entitlements
+
+# Web related
+lib/generated_plugin_registrant.dart
+
+# MacOS related
+**/macos/Flutter/ephemeral/
+**/macos/Pods/
+
+# Linux related
+**/linux/flutter/ephemeral/
+
+# Windows related
+**/windows/flutter/ephemeral/
+
+# Coverage
+coverage/
+
+# Firebase
+firebase-debug.log
+.firebaserc

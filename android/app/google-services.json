@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "407168428738",
+    "project_id": "hema-63b81",
+    "storage_bucket": "hema-63b81.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407168428738:android:d75c470c15c9453dbf695b",
+        "android_client_info": {
+          "package_name": "com.calibreworks.hema"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "407168428738-e11udoi99lidodfb84lvsmmpveasacth.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApYkCz_c2ur_nDIY3naKltl70RCMhCCsk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "407168428738-e11udoi99lidodfb84lvsmmpveasacth.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "407168428738-33lvphaii6v191k7f29r6euo8u32s1av.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.CounterApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
